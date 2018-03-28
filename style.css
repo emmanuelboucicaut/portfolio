@@ -1,0 +1,29 @@
+#left-bar{
+  height: 150px;
+}
+
+#left-bar-top{
+  height: 150px;
+}
+
+#middle-bar{
+  height: 150px;
+}
+
+#middle-bar-top{
+  height: 150px;
+}
+
+#bottom-bar{
+  height: 150px;
+}
+
+
+#bar-right {
+  height: 100%;
+}
+
+
+.line-top {
+	height: 8px;
+}
